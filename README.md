@@ -1,2 +1,2 @@
 # Knox-Audio-Bible
-An audio Bible project, using the Knox Translation with permission from the Diocese of Westminster.
+An non-commercial audio Bible project, using the Knox Translation, made with permission from the Diocese of Westminster. As such, all content on this repository shall not be redistributed in any way, and is under standard copyright.
